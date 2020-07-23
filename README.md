@@ -1,15 +1,15 @@
-# Tailwind CSS Playground
+# Microsoft
 
-A simple starter project for playing around with Tailwind in a proper PostCSS environment.
+A Microsoft website from 2004 replicated with TailwindCSS
 
 To get started:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
+    git clone https://github.com/lenartpapez/microsoft.git microsoft
 
-    cd tailwindcss-playground
+    cd microsoft
     ```
 
 2. Install the dependencies:
@@ -34,7 +34,7 @@ To get started:
 
     Now you should be able to see the project running at localhost:8080.
 
-4. Open `public/index.html` in your editor and start experimenting!
+4. Open `public/index.html` in your editor for adjustments!
 
 ## Building for production
 
