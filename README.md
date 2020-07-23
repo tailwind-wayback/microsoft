@@ -7,7 +7,7 @@ To get started:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/lenartpapez/microsoft.git microsoft
+    git clone https://github.com/lenartpapez/microsoft.git
 
     cd microsoft
     ```
