@@ -1,5 +1,4 @@
 node_modules
-public/build
 yarn.lock
 .history
 .vscode
